@@ -1,0 +1,58 @@
+﻿_fid;art;zaehlstelle;bezeichnung;hinweis;dtv_2015;dtvw_2015;dtv_2016;dtvw_2016;dtv_2017;dtvw_2017;dtv_2018;dtvw_2018;dtv_2019;dtvw_2019;dtv_2020;dtvw_2020;dtv_2021;dtvw_2021;dtv_2022;dtvw_2022;dtv_2023;dtvw_2023;dtv_2024;dtvw_2024;geom;coordinate_reference_system
+DE.HH.UP_RADVERKEHR_DTV_DTVW_1;Infrarotsensor;0295970;Krugkoppel SW Leinpfad (30.1/30.2);;-;-;-;-;-;-;-;-;-;-;-;-;6616;7238;6193;6991;5697;6478;;;POINT (566146.984000 5937249.994000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_2;Infrarotsensor;0295910;Leinpfad NW Krugkoppel (36.1);;-;-;-;-;-;-;-;-;-;-;-;-;2920;3213;3120;3514;2850;3239;;;POINT (566174.729000 5937316.033000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_3;Infrarotsensor;7434930;Hamburger Straße NO Elsastraße (39.5/39.6);;-;-;-;-;-;-;-;-;-;-;-;-;2521;2890;-;2951;2547;2969;;;POINT (568633.688000 5936817.541000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_4;Infrarotsensor;6894920;Kirchdorfer Straße N Otto-Brenner-Straße (16.3/16.4);;-;-;-;-;-;-;-;-;-;-;-;-;216;220;229;239;226;238;;;POINT (567583.235000 5927448.280000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_5;Infrarotsensor;7302960;Alte Holstenstraße S Ludwig-Rosenberg-Ring (47.1);;-;-;-;-;-;-;-;-;-;-;-;-;743;801;980;1082;873;952;;;POINT (580120.029000 5927614.478000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_6;Infrarotsensor;7414960;Kollaustraße S Sootbörn (35.1/35.2);;-;-;-;-;-;-;-;-;-;-;-;-;1684;1886;1866;2129;1712;1963;;;POINT (562886.349000 5941328.634000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_7;Infrarotsensor;7433950;Hoheluftchaussee SO Eppendorfer Weg (31.5/31.6);;-;-;-;-;-;-;-;-;-;-;-;-;3893;4398;4155;4718;3800;4331;;;POINT (564392.063000 5937392.708000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_8;Infrarotsensor;6894950;Otto-Brenner-Straße SO Kirchdorfer Straße (16.1/16.2);;-;-;-;-;-;-;-;-;-;-;-;-;307;317;329;346;317;336;;;POINT (567617.412000 5927345.956000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_9;Infrarotsensor;7068920;Oberer Landweg N Ladenbeker Furtweg (48.1/48.2);;-;-;-;-;-;-;-;-;-;-;-;-;1228;1366;1349;1515;-;-;;;POINT (578715.175000 5927387.696000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_10;Infrarotsensor;6779940;Hartwicusstraße O Papenhuder Straße (37.3);;-;-;-;-;-;-;-;-;-;-;-;-;789;841;916;1006;868;965;;;POINT (567549.186000 5935740.694000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_11;Infrarotsensor;7297940;Lobuschstraße O Winterstraße (21.3/21.4);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3505;3978;3241;3704;;;POINT (561881.201000 5933890.543000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_12;Infrarotsensor;0286940;Ehrenbergstraße O Max-Brauer-Allee (21.1/21.2);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1625;1867;1613;1870;;;POINT (562065.127000 5933886.950000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_13;Infrarotsensor;6716940;Hasselbrookstraße O Hirschgraben (42.7/42.8);;-;-;-;-;-;-;-;-;-;-;-;-;549;621;772;871;791;908;;;POINT (569182.746000 5935509.454000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_14;Infrarotsensor;7433970;Eppendorfer Weg SW Hoheluftchaussee (31.4);;-;-;-;-;-;-;-;-;-;-;-;-;2167;2337;2300;2518;2231;2442;;;POINT (564275.187000 5937398.011000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_15;Infrarotsensor;7462910;Loher Straße NW Rahlstedter Straße (44.1/44.2);;-;-;-;-;-;-;-;-;-;-;-;-;233;253;234;261;224;251;;;POINT (575891.053000 5939103.323000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_16;Infrarotsensor;6117940;Langenfort O Dennerstraße (40.1/40.2);;-;-;-;-;-;-;-;-;-;-;-;-;818;898;889;995;862;981;;;POINT (569014.034000 5939384.335000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_17;Infrarotsensor;0002980;Osdorfer Landstraße W Windmühlenweg (22.1/22.2);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1420;1617;1383;1584;;;POINT (557538.595000 5936171.604000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_18;Infrarotsensor;7432910;Bogenstraße NW Kaiser-Friedrich-Ufer (29.2/29.4);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2327;2669;2270;2607;;;POINT (564255.409000 5936789.325000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_19;Infrarotsensor;7436960;Hermann-Blohm-Straße S St. Pauli-Elbtunnel (6.1/6.2);;-;-;-;-;-;-;-;-;-;-;-;-;1569;1713;1774;1972;1752;1970;;;POINT (564047.673000 5932870.529000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_20;Infrarotsensor;7432970;Kaiser-Friedrich-Ufer (Radweg) SW Bogenstraße (29.1);;-;-;-;-;-;-;-;-;-;-;-;-;3331;3789;3311;3774;3819;4386;;;POINT (564237.818000 5936758.375000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_21;Infrarotsensor;0375950;Wilstorfer Straße SO Moorstraße (50.3/50.5);;-;-;-;-;-;-;-;-;-;-;-;-;873;962;840;921;816;902;;;POINT (565451.267000 5923500.908000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_22;Infrarotsensor;6408960;Dammtordamm S Marseiller Straße (1.2/1.3);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3309;3926;;;POINT (565573.090000 5934977.093000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_23;Infrarotsensor;6655960;Fuhlsbüttler Straße S Dennerstraße (40.4/40.5);;-;-;-;-;-;-;-;-;-;-;-;-;1091;1183;1106;1213;1001;1111;;;POINT (568985.883000 5939281.775000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_24;Infrarotsensor;0297980;Kennedybrücke W Ferdinandstor (25.1/25.2);;-;-;-;-;-;-;-;-;-;-;-;-;4812;5465;4644;5333;4435;5157;;;POINT (566104.007000 5934778.990000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_25;Infrarotsensor;7435920;Heegbarg N Saseler Damm (46.3/46.4);;-;-;-;-;-;-;-;-;-;-;-;-;718;792;801;901;-;-;;;POINT (572301.906000 5945883.753000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_26;Infrarotsensor;6058930;Elbgaustraße NO Fangdieckstraße (33.1/33.2);;-;-;-;-;-;-;-;-;-;-;-;-;1304;1454;1389;1572;1398;1593;;;POINT (558903.280000 5939601.322000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_27;Infrarotsensor;6195920;Sülldorfer Kirchenweg N Blankeneser Landstraße (24.4/24.5);;-;-;-;-;-;-;-;-;-;-;-;-;562;602;705;771;693;759;;;POINT (553809.505000 5935270.621000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_28;Infrarotsensor;0375940;Moorstraße O Wilstorfer Straße (50.2/50.4);;-;-;-;-;-;-;-;-;-;-;-;-;854;938;830;922;825;910;;;POINT (565542.371000 5923564.033000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_29;Infrarotsensor;7431960;Alsterufer S Alsterterrasse (27.1);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;4260;4797;4079;4684;;;POINT (565958.299000 5934960.433000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_30;Infrarotsensor;6370940;Osterstraße O Heußweg (32.1/32.2);;-;-;-;-;-;-;-;-;-;-;-;-;3341;3628;3558;3916;3379;3725;;;POINT (563152.012000 5936739.032000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_31;Infrarotsensor;6085970;Berner Heerweg SW August-Krogmann-Straße (45.3/45.4);;-;-;-;-;-;-;-;-;-;-;-;-;708;800;798;914;781;906;;;POINT (574060.053000 5940235.996000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_32;Infrarotsensor;0322920;Herbert-Weichmann-Straße N Am Langenzug (38.1/38.2);;-;-;-;-;-;-;-;-;-;-;-;-;2790;2976;2677;2892;2514;2746;;;POINT (566895.703000 5936937.878000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_33;Infrarotsensor;7462970;Rahlstedter Straße SW Loher Straße (44.3/44.4);;-;-;-;-;-;-;-;-;-;-;-;-;403;442;455;512;421;480;;;POINT (575887.354000 5939061.758000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_34;Infrarotsensor;7241940;Gehlengraben O Tangstedter Landstraße (41.4/41.5);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;881;976;;;POINT (567324.479000 5944996.680000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_35;Infrarotsensor;7241920;Tangstedter Landstraße N Gehlengraben (41.6/41.7);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;474;533;;;POINT (567278.365000 5945082.213000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_36;Infrarotsensor;7241980;Tangstedter Landstraße W Gehlengraben (41.1/41.2);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1257;1411;;;POINT (567219.554000 5944995.347000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_37;Infrarotsensor;7241960;Am Ohlmoorgraben S Tangstedter Landstraße (41.3);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;499;557;;;POINT (567278.913000 5944923.502000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_38;Infrarotsensor;6111920;Fuhlsbüttler Straße N Lauensteinstraße (40.8/40.9);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;POINT (568903.034000 5939488.418000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_39;Infrarotsensor;0117930;Neue Elbbrücke NO Veddeler Marktplatz (11.1/11.2);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;POINT (568093.307000 5932088.071000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_40;Infrarotsensor;7433910;Hoheluftchaussee NW Eppendorfer Weg (31.1/31.3);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;POINT (564316.928000 5937483.479000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_41;Infrarotsensor;0211950;Frohmestraße SO Wendlohstraße (34.1/34.2);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;POINT (561628.989000 5942612.952000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_42;Infrarotsensor;6125980;Alte Wöhr W Lauensteinstraße (40.6/40.7);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;POINT (568865.270000 5939341.544000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_43;Infrarotsensor;0375910;Wilstorfer Straße NW Moorstraße (50.1/50.6);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;POINT (565381.976000 5923570.049000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_44;Infrarotsensor;0311910;Adolph-Schönfelder-Straße NW Hamburger Straße (39.1/39.2);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;POINT (568480.028000 5936837.005000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_45;Infrarotsensor;7430910;Neuenfelder Straße NW An der Mühlenwettern (16.5/16.6);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;POINT (567321.850000 5927490.839000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_46;Infrarotsensor;0311950;Wagnerstraße SO Hamburger Straße (39.7/39.8);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;POINT (568618.973000 5936691.035000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_47;Infrarotsensor;0269950;Schröderstiftstraße SO Beim Schlump (28.1/28.6);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2471;2859;;;POINT (564311.987000 5935797.025000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_48;Infrarotsensor;0003920;Neue Straße N Harburger Ring (52.1);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;POINT (564996.032000 5924076.006000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_49;Infrarotsensor;7435960;Heegbarg S Saseler Damm (46.7/46.8);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;POINT (572259.075000 5945780.499000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_50;Infrarotsensor;7435940;Saseler Damm O Heegbarg (46.1/46.2);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;POINT (572351.175000 5945839.222000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_51;Infrarotsensor;0285940;Feldstraße O Sternstraße (2.4/2.5);;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;;;POINT (564094.000000 5934709.972000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_52;Induktionsschleife;7160931;An der Alster / Gurlittinsel;halbseitiger Messquerschnitt;5908;6874;5812;6735;5581;6492;6319;7436;6140;7079;6560;7398;5861;6574;6082;6891;5398;6186;;;POINT (566800.712000 5934957.266000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_53;Infrarotsensor;7197931;Reclamstraße NO Billstedter Hauptstraße (9.3);halbseitiger Messquerschnitt;-;-;-;-;-;-;-;-;-;-;-;-;66;74;76;86;69;78;;;POINT (573460.054000 5932648.660000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_54;Infrarotsensor;7197912;Billstedter Hauptstraße NW Reclamstraße (9.1);halbseitiger Messquerschnitt;-;-;-;-;-;-;-;-;-;-;-;-;137;151;138;154;146;163;;;POINT (573408.266000 5932654.086000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_55;Infrarotsensor;6283961;Neuer Jungfernstieg S Alsterglacis (27.2);halbseitiger Messquerschnitt;-;-;-;-;-;-;-;-;-;-;-;-;2311;2674;2195;2524;2561;2971;;;POINT (565799.639000 5934826.808000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_56;Infrarotsensor;0285981;Neuer Kamp W Sternstraße (2.2);halbseitiger Messquerschnitt;-;-;-;-;-;-;-;-;-;-;-;-;1872;2087;2069;2305;2045;2306;;;POINT (564051.969000 5934711.960000);EPSG:25832
+DE.HH.UP_RADVERKEHR_DTV_DTVW_57;Infrarotsensor;0109930;Wandsbeker Marktstraße NO Wandsbeker Königstraße (43.1/43.2);;-;-;-;-;-;-;-;-;-;-;-;-;2534;2837;2658;2978;2380;2681;;;POINT (570523.023000 5936366.958000);EPSG:25832
