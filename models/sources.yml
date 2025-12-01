@@ -1,0 +1,16 @@
+sources:
+  - name: team_aa
+    schema: team_aa
+    tables:
+      - name: crime_data
+      - name: district
+      - name: air_quality_bezirk_2023_2025
+      - name: consumed_energie_GWh
+      - name: allotment_gardens
+      - name: total_feed_in_GWh
+      - name: renewable_feed_in_GWh
+      - name: public_gardens
+      - name: generated_energie_GWh
+      - name: cemetry
+      - name: building_blocks
+      - name: air_quality_hamburg_2015_2025
