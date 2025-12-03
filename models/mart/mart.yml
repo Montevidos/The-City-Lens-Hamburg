@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: mart_green_population
+    description: "Combined view of Hamburg's energy production, consumption and feed-in data"

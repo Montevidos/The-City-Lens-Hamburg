@@ -26,7 +26,11 @@ clean as (
 
 crime_2023 as (
   select
-    bezirk,
+    case 
+        when bezirk = 'Hamburg Mitte' then 'Hamburg-Mitte'
+        when bezirk = 'Nord' then 'Hamburg-Nord'
+        else bezirk
+    end as bezirk,
     cast(absolut_2023_txt as double precision)    as absolut,
     cast(aufgeklart_2023_txt as double precision) as aufgeklart,
     cast(percent_2023_txt as double precision)    as percent,
@@ -36,7 +40,11 @@ crime_2023 as (
 
 crime_2024 as (
   select
-    bezirk,
+    case 
+        when bezirk = 'Hamburg Mitte' then 'Hamburg-Mitte'
+        when bezirk = 'Nord' then 'Hamburg-Nord'
+        else bezirk
+    end as bezirk,
     cast(absolut_2024_txt as double precision)    as absolut,
     cast(aufgeklart_2024_txt as double precision) as aufgeklart,
     cast(percent_2024_txt as double precision)    as percent,
