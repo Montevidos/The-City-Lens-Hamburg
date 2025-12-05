@@ -2,7 +2,7 @@ with consumed as (
     select
         cast(year as integer) as year,
         month,
-        monthly_consumed_energie_gwh as consumed_energy_gwh
+        monthly_consumed_energie_gwh as consumed_energie_gwh
     from {{ ref('stg_consumed_energie') }}
 ),
 
@@ -10,7 +10,7 @@ generated as (
     select
         cast(year as integer) as year,
         month,
-        monthly_generated_energie_gwh as generated_energy_gwh
+        monthly_generated_energie_gwh as generated_energie_gwh
     from {{ ref('stg_generated_energie') }}
 ),
 
@@ -33,8 +33,8 @@ renewable_feed as (
 select
     c.year,
     c.month,
-    c.consumed_energy_gwh,
-    g.generated_energy_gwh,
+    c.consumed_energie_gwh as consumed_energy_gwh,
+    g.generated_energie_gwh as generated_energy_gwh,
     t.total_feed_in_gwh,
     r.renewable_feed_in_gwh
 from consumed c
