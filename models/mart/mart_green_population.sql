@@ -5,7 +5,6 @@ with base as (
     join {{ref('prep_population_data')}}
     using (bezirk)
 )
-
 select *,
 
     -- 2. Total green area in km2
