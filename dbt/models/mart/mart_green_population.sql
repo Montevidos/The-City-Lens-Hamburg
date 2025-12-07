@@ -1,7 +1,15 @@
-with base as (
+with raw_garden as (
+    select bezirk, 
+    sum(cemetry_area) as cemetry_area, 
+    sum(allotment_area) as allotment_area, 
+    sum(public_garden_area) as public_garden_area
+    from {{ref ('prep_green')}}
+    group by bezirk
+)
+,base as (
     select *, 
         (cemetry_area + allotment_area + public_garden_area) as total_green_ha
-    from {{ ref('prep_green') }}
+    from raw_garden
     join {{ref('prep_population_data')}}
     using (bezirk)
 )
