@@ -88,16 +88,7 @@ https://de.wikipedia.org/wiki/Liste_der_Bezirke_und_Stadtteile_Hamburgs
 	•	Crime per 100,000 residents
 	•	Energy consumption per household
 	•	Renewable energy ratio
-
-
-## Roadmap
-	•	✔ Collect and clean public datasets
-	•	✔ Build staging and preparation layers in dbt
-	•	✔ Normalize Bezirk/Stadtteil names
-	•	✔ Create analytical marts (green, energy, crime, air quality)
-	•	⏳ Build interactive dashboard (Week 3–4)
-	•	⏳ Add filtering, comparisons, and sustainability index
-
+	
 
 ## Author
 
