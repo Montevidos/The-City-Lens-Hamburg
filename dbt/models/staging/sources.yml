@@ -29,4 +29,5 @@ sources:
       - name: monthly_generated_energie_GWh
       - name: monthly_renewable_feed_in_GWh
       - name: monthly_total_feed_in_GWh
+      - name: crime_data_stadtteil
 
