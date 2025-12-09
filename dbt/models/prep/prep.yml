@@ -18,3 +18,4 @@ models:
   - name: prep_population_data
   - name: prep_crime
   - name: prep_crime_new
+  - name: prep_crime_stadtteil
