@@ -1,37 +1,42 @@
-
-with public_gardens as (
-    select
-        bezirk, 
-        stadtteil,
-        sum(public_garden_area) as public_garden_area
-    from {{ ref('stg_public_gardens') }}
-    group by bezirk, stadtteil
-),
-
-allotment as (
+with unified as (
+    -- public gardens
     select
         bezirk,
         stadtteil,
-        sum(allotment_area) as allotment_area
-    from {{ ref('stg_allotment_gardens') }}
-    group by bezirk, stadtteil
-),
-cemetry as (
+        art,
+        green_type,
+        area
+    from {{ ref('stg_public_gardens')}}
+    
+    union all
+    
+    -- allotment gardens
     select
         bezirk,
-        stadtteil, 
-        sum(cemetry_area) as cemetry_area
-    from {{ ref('stg_cemetry') }}
-    group by bezirk, stadtteil
+        stadtteil,
+        art,
+        green_type,
+        area
+    from {{ ref('stg_allotment_gardens')}}
+    
+    union all
+    
+    -- cemeteries
+    select
+        bezirk,
+        stadtteil,
+        art,
+        green_type,
+        area
+    from {{ ref('stg_cemetry')}}
 )
 
 select
-    coalesce(p.bezirk, a.bezirk, c.bezirk) as bezirk,
-    coalesce(p.stadtteil, a.stadtteil, c.stadtteil) as stadtteil,
-    coalesce(c.cemetry_area, 0)        as cemetry_area,
-    coalesce(a.allotment_area, 0)      as allotment_area,
-    coalesce(p.public_garden_area, 0)  as public_garden_area
-from public_gardens p
-full join allotment a using (bezirk, stadtteil)
-full join cemetry c using (bezirk, stadtteil)
-order by p.stadtteil
+    bezirk,
+    stadtteil,
+    art,
+    green_type,
+    sum(area) as area
+from unified
+group by bezirk, stadtteil, art, green_type
+order by bezirk, stadtteil, art

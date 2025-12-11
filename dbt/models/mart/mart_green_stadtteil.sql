@@ -1,5 +1,8 @@
-select bezirk, stadtteil, cemetry_area, allotment_area, public_garden_area, area_size as area_size_bezirk, 
-    population as population_bezirk, population_density as population_density_per_bezirk, city_districts as city_districts_per_bezirk,
-    (cemetry_area + allotment_area + public_garden_area) as green_area
-from {{ref ('prep_green')}} g
+with green as (
+    select bezirk, stadtteil, art, green_type, sum(area) as area
+    from {{ref ('prep_green')}} 
+    group by bezirk, stadtteil, art, green_type
+)
+select g.bezirk, g.stadtteil, g.art, g.green_type, g.area, p.area_size, p.population, p.population_density, p.city_districts 
+from green g
 join {{ref('prep_population_data')}} p using (bezirk)
