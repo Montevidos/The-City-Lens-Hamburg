@@ -1,0 +1,12 @@
+{
+  "dialect": {
+    "csvddfVersion": 1.2,
+    "delimiter": ";",
+    "doubleQuote": true,
+    "lineTerminator": "\r\n",
+    "quoteChar": "\"",
+    "header": true
+  },
+  "encoding": "UTF-8 with BOM",
+  "csvddfSpec": "https://specs.frictionlessdata.io/csv-dialect/"
+}

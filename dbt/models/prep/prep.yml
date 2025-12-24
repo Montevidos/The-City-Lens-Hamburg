@@ -1,0 +1,21 @@
+version: 2
+
+models:
+  - name: prep_energy
+    description: "Combined view of Hamburg's energy production, consumption and feed-in data"
+  - name: prep_green
+    description: "Combined green-space data for each district"
+    columns:
+      - name: district_name
+        description: "District name"
+      - name: cemetry_exists
+        description: "1 = district has cemetery"
+      - name: allotment_area
+        description: "Allotment gardens area (ha)"
+      - name: public_garden_area
+        description: "Public gardens area (ha)"
+  - name: prep_air_quality_bezirk
+  - name: prep_population_data
+  - name: prep_crime
+  - name: prep_crime_new
+  - name: prep_crime_stadtteil

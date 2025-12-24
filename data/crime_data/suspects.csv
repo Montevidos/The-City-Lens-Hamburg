@@ -1,0 +1,25 @@
+year,age_group,gender,suspects
+2023,Children,Male,1806
+2023,Children,Female,1008
+2024,Children,Male,1947
+2024,Children,Female,826
+2023,Adolescents,Male,3875
+2023,Adolescents,Female,1801
+2024,Adolescents,Male,3702
+2024,Adolescents,Female,1538
+2023,Under 18 (total),Male,5681
+2023,Under 18 (total),Female,2809
+2024,Under 18 (total),Male,5649
+2024,Under 18 (total),Female,2364
+2023,Young adults (18–20),Male,4038
+2023,Young adults (18–20),Female,1235
+2024,Young adults (18–20),Male,3582
+2024,Young adults (18–20),Female,1075
+2023,Under 21 (total),Male,9719
+2023,Under 21 (total),Female,4044
+2024,Under 21 (total),Male,9231
+2024,Under 21 (total),Female,3439
+2023,Adults,Male,43988
+2023,Adults,Female,12501
+2024,Adults,Male,41708
+2024,Adults,Female,12603
